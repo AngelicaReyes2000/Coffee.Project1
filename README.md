@@ -1,2 +1,2 @@
-https://github.com/AngelicaReyes2000/Coffee.Project1/settings/pages
+https://angelicareyes2000.github.io/Coffee.Project1/
 My first project
